@@ -1,0 +1,19 @@
+# Directories to ignore
+node_modules/
+.vscode/
+.idea/
+dist/
+build/
+coverage/
+tmp/
+logs/
+.DS_Store
+
+# Files to ignore
+*.log
+*.pid
+*.bak
+*.tmp
+*.db
+*.sqlite
+*.env
